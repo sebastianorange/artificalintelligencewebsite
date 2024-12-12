@@ -13,5 +13,5 @@ This website will detail some of the basic topics regarding AI to help anyone wh
 AI technology has its ups and downs.
 
 <div>
-  <img src="/assets/aboutaiimage.jpg" class="sm:w-1/2 mx-auto" alt="image correlating a brain to a cpu">
+  <img src="/assets/aboutaiimage.svg" class="sm:w-1/2 mx-auto" alt="image correlating a brain to a cpu">
 </div>
