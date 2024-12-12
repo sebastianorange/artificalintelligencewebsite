@@ -7,9 +7,6 @@ slug: what-is-ai
 featured: true
 draft: false
 description: A quick rundown on what Artifical Intelligence is.
- editPost: {
-    disabled: true
-  },
 ---
 
 Placeholder text. Lorem ipsum sit dolor amet.
