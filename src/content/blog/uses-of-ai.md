@@ -1,7 +1,7 @@
 ---
 author: Sebastian A.
-pubDatetime: 2022-09-23T04:58:53Z
-modDatetime: 2024-10-14T09:27:28.605Z
+pubDatetime: 2024-12-12T05:20:30Z
+pubDatetime: 2024-12-12T05:20:30Z
 title: How AI Is Used In Both Everyday Life and Advancement
 slug: uses-of-ai
 featured: true
