@@ -54,7 +54,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       featuredPosts.length > 0 && (
         <>
           <section id="featured">
-            <h2>Information About Artifical Intelligence</h2>
+            <h2>About AI</h2>
             <ul>
               {featuredPosts.map(({ data, slug }) => (
                 <Card
@@ -65,7 +65,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
               ))}
             </ul>
           </section>
-          {recentPosts.length > 0 && <Hr />}
         </>
       )
     }
