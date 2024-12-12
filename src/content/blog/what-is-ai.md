@@ -6,6 +6,7 @@ title: What is AI?
 slug: what-is-ai
 featured: true
 draft: false
+tags: false
 description: A quick rundown on what Artifical Intelligence is..
 ---
 
