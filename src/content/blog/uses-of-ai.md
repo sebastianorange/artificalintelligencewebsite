@@ -28,16 +28,16 @@ events occur such as crashes, road closures, traffic, etc. These AI can also adj
 Though, these Map Navigations can be flawed and it is always recommended that the person/driver using this tool to always pay attention
 to the road even though the maps could have been accurate for the past 5-10 routes they've done.
 
-<div>
-  <img src="/assets/pathgenerationai.jpg" class="sm:w-1/2 mx-auto" alt="example of AI generating a path for navigation">
-</div>
-
 # VOICE ASSISTANTS
 Things like Siri, Google, and Alexa are also all forms of AI that help us in everyday life too. These are classified as <b>Voice Assistants</b> which we are able to ask almost any ethical question
 we can ask.
 
 We can use these voice assistants to give us basic necessities such as timers, checking the weather, alarm clocks, reminders, etc.
 I personally use a Google Home that contains the Google Assistant to set my alarm clocks and even to play music sometimes as a speaker.
+
+<div>
+  <img src="/assets/voiceassistants.png" class="sm:w-1/2 mx-auto" alt="some examples of voice assistants (siri, google, alexa)">
+</div>
 
 # AUTOMATED VEHICLES
 We've all seen the movies where eventually we'd have flying cars, self driving vehicles, robot people, etc.
