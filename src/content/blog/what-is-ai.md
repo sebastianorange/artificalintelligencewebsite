@@ -30,3 +30,7 @@ We have and use AI because it helps make life more easier in some ways. Like in 
 breakdowns and ideas of what the answer is with the detailed explanation it can provide.
 
 Check out the article, "How AI Is Used In Both Everyday Life and Advancement" for more information on how AI is used in our everyday lives.
+
+<div>
+  <img src="/assets/aiimagebrain.jpg" class="sm:w-1/2 mx-auto" alt="image correlating a brain to a cpu">
+</div>

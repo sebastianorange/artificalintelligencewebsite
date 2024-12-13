@@ -19,6 +19,11 @@ actual humans and doing other human activities like being a cashier.
 This gives I, Robot vibes since we saw how out of hand they got but, the chances of AIs actually become self-aware (as if they aren't already) and having some form of
 vendetta to destroy the world still seems slim rather than a high chance.
 
+<div>
+  <img src="/assets/robotfoldingclothes.png" class="sm:w-1/2 mx-auto" alt="tesla's optimus robots folding clothes.">
+</div>
+
+
 # PROGRESSION OF AUTOPILOT
 Autopilot in vehicles is coming a long way since it was first being developed. Tesla is a prime example of their autopilot becoming more advanced and
 aware of its own surroundings, as well as being able to adjust to conflicts around it like avoiding collisions.
