@@ -34,3 +34,7 @@ a daily usage in everyday life for long trips primarily.
 # QUALITY OF LIFE IMPROVEMENTS
 AI will continue to become more and more integrated into our lives as the years go. We are already seeing voice assistants becoming more advanced and
 more user-friendly as they become more adjusted to the way they understand human perception.
+
+<div>
+  <img src="/assets/qolai.jpg" class="sm:w-1/2 mx-auto" alt="example of AI generating a path for navigation">
+</div>

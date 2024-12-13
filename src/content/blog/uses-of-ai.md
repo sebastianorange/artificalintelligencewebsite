@@ -17,6 +17,10 @@ ChatGPT is one of the most well known AIs on this planet. To say you don't know 
 This AI is used in so many other AI softwares and in everyday use now that phones and computers are beginning to integrate into their OS, along web browsers also integrating AI into search results.
 However, problems arise with ChatGPT like plagiarism and it become a necessity rather than a tool to help. 
 
+<div>
+  <img src="/assets/chatgptlogo.jpeg" class="sm:w-1/2 mx-auto" alt="karel capek's artificial people">
+</div>
+
 # MAPS NAVIGATION
 Maps navigation apps use AI to plot the best route for you to take to a destination, even with real-time adjustments as
 events occur such as crashes, road closures, traffic, etc. These AI can also adjust to reports from people if there is an unreported crash.

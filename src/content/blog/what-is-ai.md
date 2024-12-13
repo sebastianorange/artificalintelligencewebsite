@@ -24,6 +24,10 @@ However, the birth of AI came from around 1950-1956 when the AIs began to truly 
 
 The explosion usage of the word, "Artificial Intelligence" came from John McCarthy when he held a workshop at Dartmouth in 1955 that he spoke of the words we use today.
 
+<div>
+  <img src="/assets/robots.jpg" class="sm:w-1/2 mx-auto" alt="karel capek's artificial people">
+</div>
+
 # WHY DO WE HAVE AI?
 
 We have and use AI because it helps make life more easier in some ways. Like in examples, helping out solve a homework problem. Sure, it won't be right 99% of the time but it can help give
